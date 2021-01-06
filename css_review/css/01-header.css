@@ -10,8 +10,8 @@ body {
 
 .header {
   background: #f00;
-  border-bottom: 1px solid #ccc;
   color: #fff;
+  border-bottom: 1px solid #ccc;
 }
 
 .header a {
